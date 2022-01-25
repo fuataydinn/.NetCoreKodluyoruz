@@ -1,0 +1,16 @@
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Donguler-for\obj\Debug\net5.0\Donguler-for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Donguler-for\obj\Debug\net5.0\Donguler-for.AssemblyInfoInputs.cache
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Donguler-for\obj\Debug\net5.0\Donguler-for.AssemblyInfo.cs
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Donguler-for\obj\Debug\net5.0\Donguler-for.csproj.CoreCompileInputs.cache
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Donguler-for\bin\Debug\net5.0\Donguler-for.exe
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Donguler-for\bin\Debug\net5.0\Donguler-for.deps.json
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Donguler-for\bin\Debug\net5.0\Donguler-for.runtimeconfig.json
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Donguler-for\bin\Debug\net5.0\Donguler-for.runtimeconfig.dev.json
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Donguler-for\bin\Debug\net5.0\Donguler-for.dll
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Donguler-for\bin\Debug\net5.0\ref\Donguler-for.dll
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Donguler-for\bin\Debug\net5.0\Donguler-for.pdb
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Donguler-for\obj\Debug\net5.0\Donguler-for.dll
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Donguler-for\obj\Debug\net5.0\ref\Donguler-for.dll
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Donguler-for\obj\Debug\net5.0\Donguler-for.pdb
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Donguler-for\obj\Debug\net5.0\Donguler-for.genruntimeconfig.cache
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Donguler-for\obj\Debug\net5.0\Donguler-for.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\While-ForEach\bin\Debug\net5.0\While-ForEach.exe
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\While-ForEach\bin\Debug\net5.0\While-ForEach.deps.json
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\While-ForEach\bin\Debug\net5.0\While-ForEach.runtimeconfig.json
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\While-ForEach\bin\Debug\net5.0\While-ForEach.runtimeconfig.dev.json
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\While-ForEach\bin\Debug\net5.0\While-ForEach.dll
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\While-ForEach\bin\Debug\net5.0\ref\While-ForEach.dll
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\While-ForEach\bin\Debug\net5.0\While-ForEach.pdb
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\While-ForEach\obj\Debug\net5.0\While-ForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\While-ForEach\obj\Debug\net5.0\While-ForEach.AssemblyInfoInputs.cache
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\While-ForEach\obj\Debug\net5.0\While-ForEach.AssemblyInfo.cs
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\While-ForEach\obj\Debug\net5.0\While-ForEach.csproj.CoreCompileInputs.cache
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\While-ForEach\obj\Debug\net5.0\While-ForEach.dll
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\While-ForEach\obj\Debug\net5.0\ref\While-ForEach.dll
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\While-ForEach\obj\Debug\net5.0\While-ForEach.pdb
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\While-ForEach\obj\Debug\net5.0\While-ForEach.genruntimeconfig.cache

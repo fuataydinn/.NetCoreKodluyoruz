@@ -1,0 +1,15 @@
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\ArrayMethod\obj\Debug\net5.0\ArrayMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\ArrayMethod\obj\Debug\net5.0\ArrayMethod.AssemblyInfoInputs.cache
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\ArrayMethod\obj\Debug\net5.0\ArrayMethod.AssemblyInfo.cs
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\ArrayMethod\obj\Debug\net5.0\ArrayMethod.csproj.CoreCompileInputs.cache
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\ArrayMethod\bin\Debug\net5.0\ArrayMethod.exe
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\ArrayMethod\bin\Debug\net5.0\ArrayMethod.deps.json
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\ArrayMethod\bin\Debug\net5.0\ArrayMethod.runtimeconfig.json
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\ArrayMethod\bin\Debug\net5.0\ArrayMethod.runtimeconfig.dev.json
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\ArrayMethod\bin\Debug\net5.0\ArrayMethod.dll
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\ArrayMethod\bin\Debug\net5.0\ref\ArrayMethod.dll
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\ArrayMethod\bin\Debug\net5.0\ArrayMethod.pdb
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\ArrayMethod\obj\Debug\net5.0\ArrayMethod.dll
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\ArrayMethod\obj\Debug\net5.0\ref\ArrayMethod.dll
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\ArrayMethod\obj\Debug\net5.0\ArrayMethod.pdb
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\ArrayMethod\obj\Debug\net5.0\ArrayMethod.genruntimeconfig.cache
