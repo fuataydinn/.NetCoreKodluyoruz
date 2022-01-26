@@ -1,0 +1,16 @@
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\RecursiveExtensionMetod\bin\Debug\net5.0\RecursiveExtensionMetod.exe
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\RecursiveExtensionMetod\bin\Debug\net5.0\RecursiveExtensionMetod.deps.json
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\RecursiveExtensionMetod\bin\Debug\net5.0\RecursiveExtensionMetod.runtimeconfig.json
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\RecursiveExtensionMetod\bin\Debug\net5.0\RecursiveExtensionMetod.runtimeconfig.dev.json
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\RecursiveExtensionMetod\bin\Debug\net5.0\RecursiveExtensionMetod.dll
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\RecursiveExtensionMetod\bin\Debug\net5.0\ref\RecursiveExtensionMetod.dll
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\RecursiveExtensionMetod\bin\Debug\net5.0\RecursiveExtensionMetod.pdb
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\RecursiveExtensionMetod\obj\Debug\net5.0\RecursiveExtensionMetod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\RecursiveExtensionMetod\obj\Debug\net5.0\RecursiveExtensionMetod.AssemblyInfoInputs.cache
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\RecursiveExtensionMetod\obj\Debug\net5.0\RecursiveExtensionMetod.AssemblyInfo.cs
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\RecursiveExtensionMetod\obj\Debug\net5.0\RecursiveExtensionMetod.csproj.CoreCompileInputs.cache
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\RecursiveExtensionMetod\obj\Debug\net5.0\RecursiveExtensionMetod.dll
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\RecursiveExtensionMetod\obj\Debug\net5.0\ref\RecursiveExtensionMetod.dll
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\RecursiveExtensionMetod\obj\Debug\net5.0\RecursiveExtensionMetod.pdb
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\RecursiveExtensionMetod\obj\Debug\net5.0\RecursiveExtensionMetod.genruntimeconfig.cache
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\RecursiveExtensionMetod\obj\Debug\net5.0\RecursiveExtensionMetod.csproj.AssemblyReference.cache
