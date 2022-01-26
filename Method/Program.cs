@@ -22,7 +22,7 @@ namespace Method
             ornek.EkranaYazdir(Convert.ToString(sonuc));
 
            
-            int sonuc2 = ornek.ArttırVeTopla(a,b);
+            int sonuc2 = ornek.ArttırVeTopla(ref a,ref b);
             ornek.EkranaYazdir(Convert.ToString(sonuc2));
             ornek.EkranaYazdir(Convert.ToString(a + b));
 
@@ -42,7 +42,7 @@ class Metotlar
         Console.WriteLine(veri);
     }
 
-    public int ArttırVeTopla(int deger1,int deger2)
+    public int ArttırVeTopla(ref int deger1,ref int deger2) // referansı ile çağırdık. a ile b'nin degerlerini değil bellekteki karsılıklarını verdik
     {
         deger1 += 1;
         deger2 += 1;

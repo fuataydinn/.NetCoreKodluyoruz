@@ -25,6 +25,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayMethod", "ArrayMethod\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method", "Method\Method.csproj", "{99EA6AEF-41D5-43BE-BF4C-594BD7908F44}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverloading", "MethodOverloading\MethodOverloading.csproj", "{DC2B98A1-D2AF-4D9E-BECB-1BD36445A045}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{99EA6AEF-41D5-43BE-BF4C-594BD7908F44}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99EA6AEF-41D5-43BE-BF4C-594BD7908F44}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99EA6AEF-41D5-43BE-BF4C-594BD7908F44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC2B98A1-D2AF-4D9E-BECB-1BD36445A045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC2B98A1-D2AF-4D9E-BECB-1BD36445A045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC2B98A1-D2AF-4D9E-BECB-1BD36445A045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC2B98A1-D2AF-4D9E-BECB-1BD36445A045}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
