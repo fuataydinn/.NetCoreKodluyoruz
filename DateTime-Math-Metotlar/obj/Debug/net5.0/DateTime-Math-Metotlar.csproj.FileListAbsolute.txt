@@ -1,0 +1,15 @@
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\DateTime-Math-Metotlar\bin\Debug\net5.0\DateTime-Math-Metotlar.exe
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\DateTime-Math-Metotlar\bin\Debug\net5.0\DateTime-Math-Metotlar.deps.json
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\DateTime-Math-Metotlar\bin\Debug\net5.0\DateTime-Math-Metotlar.runtimeconfig.json
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\DateTime-Math-Metotlar\bin\Debug\net5.0\DateTime-Math-Metotlar.runtimeconfig.dev.json
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\DateTime-Math-Metotlar\bin\Debug\net5.0\DateTime-Math-Metotlar.dll
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\DateTime-Math-Metotlar\bin\Debug\net5.0\ref\DateTime-Math-Metotlar.dll
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\DateTime-Math-Metotlar\bin\Debug\net5.0\DateTime-Math-Metotlar.pdb
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\DateTime-Math-Metotlar\obj\Debug\net5.0\DateTime-Math-Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\DateTime-Math-Metotlar\obj\Debug\net5.0\DateTime-Math-Metotlar.AssemblyInfoInputs.cache
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\DateTime-Math-Metotlar\obj\Debug\net5.0\DateTime-Math-Metotlar.AssemblyInfo.cs
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\DateTime-Math-Metotlar\obj\Debug\net5.0\DateTime-Math-Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\DateTime-Math-Metotlar\obj\Debug\net5.0\DateTime-Math-Metotlar.dll
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\DateTime-Math-Metotlar\obj\Debug\net5.0\ref\DateTime-Math-Metotlar.dll
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\DateTime-Math-Metotlar\obj\Debug\net5.0\DateTime-Math-Metotlar.pdb
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\DateTime-Math-Metotlar\obj\Debug\net5.0\DateTime-Math-Metotlar.genruntimeconfig.cache
