@@ -1,0 +1,16 @@
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\GenericList\bin\Debug\net5.0\GenericList.exe
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\GenericList\bin\Debug\net5.0\GenericList.deps.json
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\GenericList\bin\Debug\net5.0\GenericList.runtimeconfig.json
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\GenericList\bin\Debug\net5.0\GenericList.runtimeconfig.dev.json
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\GenericList\bin\Debug\net5.0\GenericList.dll
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\GenericList\bin\Debug\net5.0\ref\GenericList.dll
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\GenericList\bin\Debug\net5.0\GenericList.pdb
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\GenericList\obj\Debug\net5.0\GenericList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\GenericList\obj\Debug\net5.0\GenericList.AssemblyInfoInputs.cache
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\GenericList\obj\Debug\net5.0\GenericList.AssemblyInfo.cs
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\GenericList\obj\Debug\net5.0\GenericList.csproj.CoreCompileInputs.cache
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\GenericList\obj\Debug\net5.0\GenericList.dll
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\GenericList\obj\Debug\net5.0\ref\GenericList.dll
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\GenericList\obj\Debug\net5.0\GenericList.pdb
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\GenericList\obj\Debug\net5.0\GenericList.genruntimeconfig.cache
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\GenericList\obj\Debug\net5.0\GenericList.csproj.AssemblyReference.cache
