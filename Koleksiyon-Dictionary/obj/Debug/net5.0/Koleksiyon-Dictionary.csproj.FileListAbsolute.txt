@@ -1,0 +1,15 @@
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Koleksiyon-Dictionary\bin\Debug\net5.0\Koleksiyon-Dictionary.exe
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Koleksiyon-Dictionary\bin\Debug\net5.0\Koleksiyon-Dictionary.deps.json
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Koleksiyon-Dictionary\bin\Debug\net5.0\Koleksiyon-Dictionary.runtimeconfig.json
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Koleksiyon-Dictionary\bin\Debug\net5.0\Koleksiyon-Dictionary.runtimeconfig.dev.json
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Koleksiyon-Dictionary\bin\Debug\net5.0\Koleksiyon-Dictionary.dll
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Koleksiyon-Dictionary\bin\Debug\net5.0\ref\Koleksiyon-Dictionary.dll
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Koleksiyon-Dictionary\bin\Debug\net5.0\Koleksiyon-Dictionary.pdb
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Koleksiyon-Dictionary\obj\Debug\net5.0\Koleksiyon-Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Koleksiyon-Dictionary\obj\Debug\net5.0\Koleksiyon-Dictionary.AssemblyInfoInputs.cache
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Koleksiyon-Dictionary\obj\Debug\net5.0\Koleksiyon-Dictionary.AssemblyInfo.cs
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Koleksiyon-Dictionary\obj\Debug\net5.0\Koleksiyon-Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Koleksiyon-Dictionary\obj\Debug\net5.0\Koleksiyon-Dictionary.dll
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Koleksiyon-Dictionary\obj\Debug\net5.0\ref\Koleksiyon-Dictionary.dll
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Koleksiyon-Dictionary\obj\Debug\net5.0\Koleksiyon-Dictionary.pdb
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Koleksiyon-Dictionary\obj\Debug\net5.0\Koleksiyon-Dictionary.genruntimeconfig.cache
