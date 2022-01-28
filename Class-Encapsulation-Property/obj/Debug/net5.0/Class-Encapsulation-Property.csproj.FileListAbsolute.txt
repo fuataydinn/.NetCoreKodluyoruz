@@ -1,0 +1,16 @@
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Class-Encapsulation-Property\bin\Debug\net5.0\Class-Encapsulation-Property.exe
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Class-Encapsulation-Property\bin\Debug\net5.0\Class-Encapsulation-Property.deps.json
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Class-Encapsulation-Property\bin\Debug\net5.0\Class-Encapsulation-Property.runtimeconfig.json
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Class-Encapsulation-Property\bin\Debug\net5.0\Class-Encapsulation-Property.runtimeconfig.dev.json
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Class-Encapsulation-Property\bin\Debug\net5.0\Class-Encapsulation-Property.dll
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Class-Encapsulation-Property\bin\Debug\net5.0\ref\Class-Encapsulation-Property.dll
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Class-Encapsulation-Property\bin\Debug\net5.0\Class-Encapsulation-Property.pdb
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Class-Encapsulation-Property\obj\Debug\net5.0\Class-Encapsulation-Property.csproj.AssemblyReference.cache
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Class-Encapsulation-Property\obj\Debug\net5.0\Class-Encapsulation-Property.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Class-Encapsulation-Property\obj\Debug\net5.0\Class-Encapsulation-Property.AssemblyInfoInputs.cache
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Class-Encapsulation-Property\obj\Debug\net5.0\Class-Encapsulation-Property.AssemblyInfo.cs
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Class-Encapsulation-Property\obj\Debug\net5.0\Class-Encapsulation-Property.csproj.CoreCompileInputs.cache
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Class-Encapsulation-Property\obj\Debug\net5.0\Class-Encapsulation-Property.dll
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Class-Encapsulation-Property\obj\Debug\net5.0\ref\Class-Encapsulation-Property.dll
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Class-Encapsulation-Property\obj\Debug\net5.0\Class-Encapsulation-Property.pdb
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Class-Encapsulation-Property\obj\Debug\net5.0\Class-Encapsulation-Property.genruntimeconfig.cache
