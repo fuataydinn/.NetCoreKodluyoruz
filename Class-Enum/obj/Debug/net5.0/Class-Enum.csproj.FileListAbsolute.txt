@@ -1,0 +1,15 @@
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Class-Enum\bin\Debug\net5.0\Class-Enum.exe
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Class-Enum\bin\Debug\net5.0\Class-Enum.deps.json
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Class-Enum\bin\Debug\net5.0\Class-Enum.runtimeconfig.json
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Class-Enum\bin\Debug\net5.0\Class-Enum.runtimeconfig.dev.json
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Class-Enum\bin\Debug\net5.0\Class-Enum.dll
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Class-Enum\bin\Debug\net5.0\ref\Class-Enum.dll
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Class-Enum\bin\Debug\net5.0\Class-Enum.pdb
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Class-Enum\obj\Debug\net5.0\Class-Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Class-Enum\obj\Debug\net5.0\Class-Enum.AssemblyInfoInputs.cache
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Class-Enum\obj\Debug\net5.0\Class-Enum.AssemblyInfo.cs
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Class-Enum\obj\Debug\net5.0\Class-Enum.csproj.CoreCompileInputs.cache
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Class-Enum\obj\Debug\net5.0\Class-Enum.dll
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Class-Enum\obj\Debug\net5.0\ref\Class-Enum.dll
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Class-Enum\obj\Debug\net5.0\Class-Enum.pdb
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Class-Enum\obj\Debug\net5.0\Class-Enum.genruntimeconfig.cache
