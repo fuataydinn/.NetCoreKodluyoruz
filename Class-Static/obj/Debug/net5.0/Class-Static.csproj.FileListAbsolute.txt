@@ -1,0 +1,16 @@
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Class-Static\bin\Debug\net5.0\Class-Static.exe
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Class-Static\bin\Debug\net5.0\Class-Static.deps.json
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Class-Static\bin\Debug\net5.0\Class-Static.runtimeconfig.json
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Class-Static\bin\Debug\net5.0\Class-Static.runtimeconfig.dev.json
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Class-Static\bin\Debug\net5.0\Class-Static.dll
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Class-Static\bin\Debug\net5.0\ref\Class-Static.dll
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Class-Static\bin\Debug\net5.0\Class-Static.pdb
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Class-Static\obj\Debug\net5.0\Class-Static.csproj.AssemblyReference.cache
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Class-Static\obj\Debug\net5.0\Class-Static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Class-Static\obj\Debug\net5.0\Class-Static.AssemblyInfoInputs.cache
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Class-Static\obj\Debug\net5.0\Class-Static.AssemblyInfo.cs
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Class-Static\obj\Debug\net5.0\Class-Static.csproj.CoreCompileInputs.cache
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Class-Static\obj\Debug\net5.0\Class-Static.dll
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Class-Static\obj\Debug\net5.0\ref\Class-Static.dll
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Class-Static\obj\Debug\net5.0\Class-Static.pdb
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\Class-Static\obj\Debug\net5.0\Class-Static.genruntimeconfig.cache
