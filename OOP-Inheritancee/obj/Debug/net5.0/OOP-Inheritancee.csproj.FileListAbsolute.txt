@@ -1,0 +1,16 @@
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\OOP-Inheritancee\bin\Debug\net5.0\OOP-Inheritancee.exe
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\OOP-Inheritancee\bin\Debug\net5.0\OOP-Inheritancee.deps.json
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\OOP-Inheritancee\bin\Debug\net5.0\OOP-Inheritancee.runtimeconfig.json
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\OOP-Inheritancee\bin\Debug\net5.0\OOP-Inheritancee.runtimeconfig.dev.json
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\OOP-Inheritancee\bin\Debug\net5.0\OOP-Inheritancee.dll
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\OOP-Inheritancee\bin\Debug\net5.0\ref\OOP-Inheritancee.dll
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\OOP-Inheritancee\bin\Debug\net5.0\OOP-Inheritancee.pdb
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\OOP-Inheritancee\obj\Debug\net5.0\OOP-Inheritancee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\OOP-Inheritancee\obj\Debug\net5.0\OOP-Inheritancee.AssemblyInfoInputs.cache
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\OOP-Inheritancee\obj\Debug\net5.0\OOP-Inheritancee.AssemblyInfo.cs
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\OOP-Inheritancee\obj\Debug\net5.0\OOP-Inheritancee.csproj.CoreCompileInputs.cache
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\OOP-Inheritancee\obj\Debug\net5.0\OOP-Inheritancee.dll
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\OOP-Inheritancee\obj\Debug\net5.0\ref\OOP-Inheritancee.dll
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\OOP-Inheritancee\obj\Debug\net5.0\OOP-Inheritancee.pdb
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\OOP-Inheritancee\obj\Debug\net5.0\OOP-Inheritancee.genruntimeconfig.cache
+C:\Users\faydn\OneDrive\Masaüstü\Kodluyoruz\Backend\Kodluyoruz\OOP-Inheritancee\obj\Debug\net5.0\OOP-Inheritancee.csproj.AssemblyReference.cache
